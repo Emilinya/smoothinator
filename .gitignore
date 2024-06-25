@@ -1,0 +1,11 @@
+__pycache__
+.vscode
+
+beziers.png
+edges.png
+projected.png
+jagged.png
+jagged_hole.png
+dem_short_cantilever_40.npy
+dem_short_cantilever_80.npy
+
