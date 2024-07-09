@@ -1,9 +1,10 @@
 __pycache__
 .vscode
+ml/ai_out
 
-beziers.png
-edges.png
-projected.png
+bezier/beziers.png
+bezier/edges.png
+bezier/projected.png
 jagged.png
 jagged_hole.png
 dem_short_cantilever_40.npy
